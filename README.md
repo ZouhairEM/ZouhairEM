@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ZouhairEM
-- 👀 I’m interested in front-end development and user experience (UX) design
-- 🌱 I’m currently learning Vue.JS and about to start with React.JS
-- 💞️ I’m looking to collaborate on Vue.JS projects to become more familiar with it.
+- 👀 I’m interested in front-end development
+- 🌱 I’ve working on building projects mostly in Vue.JS and React.JS
 - 📫 Check out my portfolio on https://www.mariami.nl or reach me at zouhairelmariami@gmail.com 
 
 <!---
